@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+facebook-business
+pydantic
+python-multipart
